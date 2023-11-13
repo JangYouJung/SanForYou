@@ -23,14 +23,18 @@
 ![image](https://user-images.githubusercontent.com/78153919/215469710-41ad5790-6e11-4b85-bb84-269c1a5439cc.png)
 <br></br>
 
-### [🎬 프로젝트 시연 영상](https://www.youtube.com/watch?v=abNEC-vWowY&t=99s)
+### [🎬 프로젝트 시연 영상](https://www.youtube.com/watch?v=nayPppPBjAQ)
+YouTube: https://www.youtube.com/watch?v=nayPppPBjAQ
 <br></br>
 
 ### [📄 최종 보고서](https://docs.google.com/presentation/d/1TARVgrszoRQ7vNcN9wjXsjHwDbeQSC0-/edit?usp=share_link&ouid=106019266129878443343&rtpof=true&sd=true)
+Google Docs: https://docs.google.com/presentation/d/1TARVgrszoRQ7vNcN9wjXsjHwDbeQSC0-/edit?usp=share_link&ouid=106019266129878443343&rtpof=true&sd=true
 <br></br>
 
 ### [🎨디자인](https://www.figma.com/file/3CR1GowvlSzpaNzFDHzjVI/%EC%82%B0%ED%8F%AC%EC%9C%A0?node-id=0%3A1&t=W6VWI4gX4Nc8UND0-0)
+Figma: https://www.figma.com/file/3CR1GowvlSzpaNzFDHzjVI/%EC%82%B0%ED%8F%AC%EC%9C%A0?node-id=0%3A1&t=W6VWI4gX4Nc8UND0-0
 <br></br>
 
 ### [⏰ 일정관리](https://trello.com/b/bJsZu7B8/mountain)
+Trello: https://trello.com/b/bJsZu7B8/mountain
 <br></br>
