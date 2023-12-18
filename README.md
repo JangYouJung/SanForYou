@@ -1,6 +1,7 @@
 #  🏔️ SanForYou 산포유: 당신의 등산을 돕는 등산 비서
-
+![산포유 커버](https://github.com/JangYouJung/SanForYou/assets/80906691/eac245d4-c977-4b99-b3c1-de8515f24449)
 ### 🏆 2021 성신여대 소프트웨어 경진대회 장려상 수상
+<br></br>
 
 ### 🎞제작 배경
 ![image](https://user-images.githubusercontent.com/78153919/215469034-0f915729-7563-4fe1-b917-33b6ebf0abd4.png)
