@@ -7,11 +7,6 @@
 ![image](https://user-images.githubusercontent.com/78153919/215469034-0f915729-7563-4fe1-b917-33b6ebf0abd4.png)
 <br></br>
 
-### 📱 사용한 개발 기술
-
-![image](https://user-images.githubusercontent.com/78153919/215469214-1281cf16-ecc2-4405-b72e-a639879a1e5b.png)
-
-
 ### ✨ 소프트웨어 기능
 
 ![image](https://user-images.githubusercontent.com/78153919/215469297-4e288456-c4df-4386-905b-cfceb13b0e6e.png)
@@ -19,6 +14,11 @@
 ![image](https://user-images.githubusercontent.com/78153919/215469415-99cea6be-27ae-4972-916c-f4a9766dddc1.png)
 ![image](https://user-images.githubusercontent.com/78153919/215469489-04986e14-20f5-4ad4-b83a-75c46bade294.png)
 ![image](https://user-images.githubusercontent.com/78153919/215469556-8eea6798-e0c9-45fa-a631-8a6b7a1bbdd0.png)
+<br></br>
+
+### 📱 사용한 개발 기술
+![image](https://user-images.githubusercontent.com/78153919/215469214-1281cf16-ecc2-4405-b72e-a639879a1e5b.png)
+<br></br>
 
 ### 🔨 개발 방법
 ![image](https://user-images.githubusercontent.com/78153919/215469710-41ad5790-6e11-4b85-bb84-269c1a5439cc.png)
